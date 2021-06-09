@@ -1,4 +1,24 @@
-class script(object): START_MSG = """ <b>Hi {}ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ് പക്ഷെ വെറുതെ സമയം കളയണ്ട എന്നെ മൂവി ലോയേഴ്സ് ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ   <i>help</i></b>""" HELP_MSG = """<b> My Owners Can Only See This 😋 @movielaunchers</b>""" ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b> ⭕️<b>Creater :</b> @Mechanic_King⭕️<b>Language :</b> <code>Python3</code>⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> ⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> """class script(object):
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# (c) @AlbertEinsteinTG
+
+class Translation(object):
+    
+    START_TEXT = """<b>Hey {}!!
+Am Just A Advance Auto Filter Bot....😉
+You Can't Use Me.I Specially Maded For My Group.
+ 🕵‍♂ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 <a href="https://t.me/Mechanic_King">Mechanic</a></b>"""    
+    
+    HELP_TEXT = """
+My Owners Can Only See This 😋
+"""
+    
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Mechanic_King">Mechanic</a></i></b>
+<b>➥ Language</b> : <code>Python3</code>
+<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+"""
 
 
     
