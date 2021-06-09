@@ -2,5 +2,4 @@ class script(object): START_MSG = """ <b>Hi {}ഞാൻ ഒരു ഗ്രൂ�
 
 
     
-<i>
-* Add
+
