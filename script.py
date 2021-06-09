@@ -3,14 +3,4 @@ class script(object): START_MSG = """ <b>Hi {}ഞാൻ ഒരു ഗ്രൂ�
 
     
 <i>
-* Add bot to your group with admin rights.
-
-* Add bot to channels which you want to link with <b>all admin rights</b>!
-</i>
-
-
-<b>Bot Commands - Works in Group only</b>
-(You need to be a Auth User in order to use these commands)
-
-
-
+* Add
